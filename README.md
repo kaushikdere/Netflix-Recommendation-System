@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" height="400" src="https://user-images.githubusercontent.com/96771321/214456292-ef421cff-a59f-46a1-9411-fef980ee6814.gif">
+</p>
+
 # Netflix-Recommendation-System
 
 ### INTRODUCTION
